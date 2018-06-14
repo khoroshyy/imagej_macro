@@ -1,0 +1,1 @@
+print(getResult("X", 1))
